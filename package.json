@@ -1,0 +1,14 @@
+{
+  "name": "pokemon-go-clone",
+  "version": "1.0.0",
+  "description": "A modern, cool, and colorful Pokemon Go clone",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.3",
+    "leaflet": "^1.7.1"
+  }
+}
